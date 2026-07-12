@@ -7,7 +7,7 @@
 
 📸 **Applied GPOs - User Scope**
 
-![Applied GPOs - User Scope](https://github.com/user-attachments/assets/5f1e63ac-de14-4386-ae59-4b72d4d74f25)
+![Applied GPOs - User Scope](../06-Screenshots/H-GPResult-Analysis/2/01.png)
 
 ---
 
@@ -17,7 +17,7 @@
 
 📸 **Filtered GPOs - User Scope**
 
-![Filtered GPOs - User Scope](https://github.com/user-attachments/assets/77aaa7e2-b563-46d7-aafa-08d518f9b034)
+![Filtered GPOs - User Scope](../06-Screenshots/H-GPResult-Analysis/2/02.png)
 
 ---
 
@@ -42,11 +42,11 @@
 
 📸 **Security Groups - User Scope**
 
-![Security Groups - User Scope](https://github.com/user-attachments/assets/07a1985c-02d9-41c5-b62c-14c7c031ab2e)
+![Security Groups - User Scope](../06-Screenshots/H-GPResult-Analysis/2/03.png)
 
 📸 **Last GP Update - User Scope**
 
-![Last GP Update - User Scope](https://github.com/user-attachments/assets/7f70da7c-e28a-4029-a255-406d76fd4752)
+![Last GP Update - User Scope](../06-Screenshots/H-GPResult-Analysis/2/04.png)
 
 ---
 
@@ -65,9 +65,9 @@ Offers a concise view of GPOs applied to the user account.
      
 📸 **Command Prompt Output: `gpresult /r /scope:user`**
    
-![Summary of User-Specific Group Policy Settings](https://github.com/user-attachments/assets/82b68d4d-8aae-442c-9d77-931d4b8b7b3e)
+![Summary of User-Specific Group Policy Settings](../06-Screenshots/H-GPResult-Analysis/2/05.png)
 
-![Summary of User-Specific Group Policy Settings 2](https://github.com/user-attachments/assets/8cc64949-d484-49fa-96ae-ee49655def22)
+![Summary of User-Specific Group Policy Settings 2](../06-Screenshots/H-GPResult-Analysis/2/06.png)
 
 ### B. Command Prompt Output: `gpresult /v /scope:user`
 
@@ -79,16 +79,6 @@ Shows verbose details of user policies.
 
 Provides detailed insights into each policy setting applied to the user.
    - `Capture Location`: Client Machine
-
-📸 **Command Prompt Output: `gpresult /v /scope:user`**
-   
-![Verbose Details of User Policies](https://github.com/user-attachments/assets/b082f784-5e17-40d3-a000-00a4a664a6e4)
-
-![Verbose Details of User Policies 1](https://github.com/user-attachments/assets/c25c6e1a-a6fd-40e8-9e44-f1cfa75b47b1)
-
-![Verbose Details of User Policies 2](https://github.com/user-attachments/assets/1b0e99a0-8dd7-444d-9df2-7bef177c7fed)
-
-![Verbose Details of User Policies 3](https://github.com/user-attachments/assets/0335aed7-52f3-425e-bb84-e40e2dacb5a1)
    
 ### C. **Group Policy Results Wizard in GPMC (User Configuration)**
    
@@ -103,13 +93,9 @@ Visual representation of GPOs applied to the user, facilitating better understan
 
 📸 **GPMC - User Configuration:**
 
-![Group Policy Results Wizard Displaying User Configuration Results](https://github.com/user-attachments/assets/0b4be58f-6657-4417-9cc6-045bf5cf51af)
+![Group Policy Results Wizard Displaying User Configuration Results](../06-Screenshots/H-GPResult-Analysis/2/07.png)
   
-![Group Policy Results Wizard Displaying User Configuration Results 1](https://github.com/user-attachments/assets/de30c4eb-3fc5-44f3-b15e-1c4df1b52384)
-
-![Group Policy Results Wizard Displaying User Configuration Results 2](https://github.com/user-attachments/assets/94d74082-0442-40f3-a663-86b6bf4592c7)
-
-![Group Policy Results Wizard Displaying User Configuration Results 3](https://github.com/user-attachments/assets/47f8543e-612e-47c2-9e8d-f7f2334183a5)
+![Group Policy Results Wizard Displaying User Configuration Results 3](../06-Screenshots/H-GPResult-Analysis/2/08.png)
 
 ---
 
@@ -124,18 +110,10 @@ Snapshot of the HTML report focusing on the user configuration section.
 Offers a structured and detailed view of applied user policies.
    - `Capture Location`: Client Machine
 
-📸 **`gpresult` HTML Report - User:**
-   
-![Snapshot of the HTML Report Focusing on The User Configuration Section](https://github.com/user-attachments/assets/e96366f3-13b7-41dc-b972-c7fe6f5b2ba1)
-
-![Snapshot of the HTML Report Focusing on The User Configuration Section 1](https://github.com/user-attachments/assets/9a954d82-20b3-4dea-978b-28b5d85ebc7a)
-
-![Snapshot of the HTML Report Focusing on The User Configuration Section 2](https://github.com/user-attachments/assets/1b493ad1-869a-4733-b80a-b43821225bd5)
-
 ---
 
 ## 🔄 5. Last Group Policy Application
 
 - **Date**: 2025-05-02
 - **Time**: 4:46 PM
-- **Domain Controller**: WIN-D2PQBCI88JQ.hughkumbi.local
+- **Domain Controller**: WIN-D2PQBCI88JQ.cloud.com
