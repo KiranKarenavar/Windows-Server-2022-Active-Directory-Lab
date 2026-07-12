@@ -13,7 +13,7 @@ This policy was created using the **Group Policy Management Console (GPMC)** and
 
 📸 **GPMC Showing the Domain Password Policy GPO**
 
-<img width="1920" height="909" alt="GPMC Showing the Domain Password Policy GPO" src="https://github.com/user-attachments/assets/7a68f83e-b007-48d5-869a-512a18f7316b" />
+![GPMC Showing the Domain Password Policy GPO](../6-Screenshots/D-Security-Policies/01/01.png)
 
 ---
 
@@ -35,7 +35,7 @@ These settings ensure users cannot reuse old passwords frequently, must use comp
 
 📸 **Group Policy Editor Window Showing the Password Policy Path**
 
-<img width="1920" height="909" alt="Group Policy Editor Window Showing the Password Policy Path" src="https://github.com/user-attachments/assets/6c979a92-4794-418f-a77a-1f8f1a4be9d7" />
+![Group Policy Editor Window Showing the Password Policy Path](../6-Screenshots/D-Security-Policies/01/02.png)
 
 ---
 
@@ -64,23 +64,13 @@ gpresult /r
 
 📸 **`gpresult` Showing Password Policy Application for `AD-WIN10-01`**
 
-![`gpresult` Showing Password Policy Application for `AD-WIN10-01`](https://github.com/user-attachments/assets/b8efa2b6-49ee-4456-9005-432ae51312c1)
-
-![`gpresult` Showing Password Policy Application for `AD-WIN10-01` 1](https://github.com/user-attachments/assets/05f7ce83-918e-4594-b4e0-d9689c050eee)
+![`gpresult` Showing Password Policy Application for `AD-WIN10-01`](../6-Screenshots/D-Security-Policies/01/04.png)
 
 📸 **`gpresult` Showing Password Policy Application for `AD-WIN10-02`**
 
-![presult` Showing Password Policy Application for `AD-WIN10-02`](https://github.com/user-attachments/assets/86ad4f47-f523-456c-92e5-2a85fd19ec3e)
-
-![presult` Showing Password Policy Application for `AD-WIN10-02` 1](https://github.com/user-attachments/assets/3f5a2733-3c40-4425-9347-40b7e822cba5)
+![presult` Showing Password Policy Application for `AD-WIN10-02`](../6-Screenshots/D-Security-Policies/01/05.png)
 
 📸 **Resultant Set of Policy**
 
-<img width="1920" height="909" alt="Resultant Set of Policy for Password Policy" src="https://github.com/user-attachments/assets/abb5311c-ddb0-4985-94be-d3ea773f98dc" />
+![Resultant Set of Policy for Password Policy](../6-Screenshots/D-Security-Policies/01/03.png)
 
----
-
-## 📁 5. Screenshot Storage
-
-All screenshots for this section can be found in:<br />
-📂 [`06-Screenshots/XI. Password Policy`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/tree/main/06-Screenshots/XI.%20Password%20Policy)
