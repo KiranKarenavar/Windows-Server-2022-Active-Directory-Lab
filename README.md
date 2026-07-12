@@ -38,7 +38,7 @@ Below is the high-level architecture of the lab environment:
 
 All configuration steps, screenshots, and explanations are organized in folders for easy navigation.
 
-🔗 [📚 View Full Table of Contents](../Table-of-Contents.md)
+🔗 [📚 View Full Table of Contents](/Table-of-Contents.md)
 
 ---
 
