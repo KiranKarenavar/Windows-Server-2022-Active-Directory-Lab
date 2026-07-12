@@ -35,9 +35,9 @@ Before creating GPOs, I organized domain objects into appropriate **Organization
 
 📸 **Active Directory Users and Computers (ADUC) Showing OU Hierarchy**
 
-<img width="1920" height="909" alt="Active Directory Users and Computers (ADUC) Showing OU Hierarchy" src="https://github.com/user-attachments/assets/3ff7c471-fba8-49c1-9438-7c0aaa92fa3a" /><br />
+![Active Directory Users and Computers (ADUC) Showing OU Hierarchy](../06-Screenshots/C-Configuration/C-06/01.png)
 
-<img width="1920" height="909" alt="Active Directory Users and Computers (ADUC) Showing OU Hierarchy 1" src="https://github.com/user-attachments/assets/79a49d22-d88a-45a9-b41d-e9b45435384a" />
+![Active Directory Users and Computers (ADUC) Showing OU Hierarchy 1](../06-Screenshots/C-Configuration/C-06/02.png)
 
 ---
 
@@ -85,23 +85,7 @@ Created and linked GPOs to the appropriate OUs using the **Group Policy Manageme
 
 📸 **GPMC with List of GPOs**
 
-<img width="1920" height="909" alt="GPMC With List of GPOs" src="https://github.com/user-attachments/assets/3e4e5d94-0192-4e77-b2fe-eeed535764d3" /><br />
-
-📸 **Link Status to Domain Root**
-
-<img width="1920" height="909" alt="Link Status to Domain Root" src="https://github.com/user-attachments/assets/0beb3f76-8455-4979-a7e9-df1096964e67" /><br />
-
-📸 **Link Status to Domain Controller**
-
-<img width="1920" height="909" alt="Link Status to Domain Controller" src="https://github.com/user-attachments/assets/20fe3942-ba7a-4253-a659-c13133411d16" /><br />
-
-📸 **Link Status to Employees OU**
-
-<img width="1920" height="909" alt="Link Status to Employees OU" src="https://github.com/user-attachments/assets/938e7fc0-b2fd-4eca-89ff-bb323f0e3d07" /><br />
-
-📸 **Link Status to MeiVaultComputers OU**
-
-<img width="1920" height="909" alt="Link Status to MeiVaultComputers OU" src="https://github.com/user-attachments/assets/38dd2f34-ac34-484b-99de-fcdd180da44d" />
+![GPMC With List of GPOs](../06-Screenshots/C-Configuration/C-06/03.png)
 
 ---
 
@@ -112,7 +96,7 @@ Created and linked GPOs to the appropriate OUs using the **Group Policy Manageme
 
 📸 **GPMC Showing GPO Inheritance Settings**
 
-<img width="1920" height="909" alt="GPMC Showing GPO Inheritance Settings" src="https://github.com/user-attachments/assets/2b5316bf-278c-43b2-aa4c-05c408220021" />
+![GPMC Showing GPO Inheritance Settings](../06-Screenshots/C-Configuration/C-06/04.png)
 
 ---
 
