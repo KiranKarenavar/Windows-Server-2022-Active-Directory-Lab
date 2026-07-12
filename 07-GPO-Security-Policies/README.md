@@ -50,7 +50,7 @@ Implemented account lockout settings to deter brute-force attacks and unauthoriz
 These settings are configured under:
   📂 `Computer Configuration → Windows Settings → Security Settings → Account Policies → Account Lockout Policy`
   
-Detailed configurations can be found in the [`II. Account-Lockout-Policy`](../07-GPO-Security-Policies/I.%20Account-Lockout-Policy.md) file.
+Detailed configurations can be found in the [`II. Account-Lockout-Policy`](../07-GPO-Security-Policies/II.%20Account-Lockout-Policy.md) file.
 
 ---
 
@@ -81,7 +81,7 @@ Configured audit policies to monitor and record critical security-related events
 These settings are configured under:
   📂 `Computer Configuration → Windows Settings → Security Settings → Local Policies → Audit Policy`
   
-Detailed configurations can be found in the [`III. Audit-Policy`](../07-GPO-Security-Policies/I.%20Audit-Policy.md) file.
+Detailed configurations can be found in the [`III. Audit-Policy`](../07-GPO-Security-Policies/III.%20Audit-Policy.md) file.
 
 ---
 
