@@ -11,7 +11,7 @@ This section explains how I implemented a **Desktop Wallpaper Policy** using Gro
 
 📸 **Group Policy Management Console Showing the Desktop Wallpaper Policy GPO and Link**
 
-<img width="1920" height="909" alt="Group Policy Management Console Showing The Desktop Wallpaper Policy GPO And Link" src="https://github.com/user-attachments/assets/2a789e80-1c0e-4a51-863a-cc4b0c36e515" />
+![Group Policy Management Console Showing The Desktop Wallpaper Policy GPO And Link](../06-Screenshots/G-User-Environment-Management/02/01.png)
 
 ---
 
@@ -31,11 +31,7 @@ This section explains how I implemented a **Desktop Wallpaper Policy** using Gro
 
 📸 **Desktop Wallpaper Policy Configuration**
 
-![Desktop Wallpaper Policy Configuration](https://github.com/user-attachments/assets/1473f3c6-7899-43bd-8f99-9dae4492b0d1)
-
-📸 **Wallpaper File Stored on Shared Server Folder**
-
-![Wallpaper File Stored On Shared Server Folder](https://github.com/user-attachments/assets/890c8a57-539b-41aa-88a2-76e514230588)
+![Desktop Wallpaper Policy Configuration](../06-Screenshots/G-User-Environment-Management/02/02.png)
 
 ---
 
@@ -46,21 +42,6 @@ To test the policy:
 2. Verified that the desktop wallpaper was automatically applied.
 3. Attempted to change the wallpaper via settings — confirmed that the option was greyed out.
 
-📸 **Wallpaper Automatically Applied on User Login for `WinServer2022`**
+📸 **Wallpaper Automatically Applied on User Login**
 
-![Wallpaper Automatically Applied On User Login for `WinServer2022`](https://github.com/user-attachments/assets/63a10f3c-e189-4260-911a-472771518e45)
-
-📸 **Wallpaper Automatically Applied on User Login for `AD-WIN10-01`**
-
-![Wallpaper Automatically Applied On User Login for `AD-WIN10-01`](https://github.com/user-attachments/assets/5bde3ac8-a33d-4495-8357-41ce4ba9e9e3)
-
-📸 **Wallpaper Automatically Applied on User Login for `AD-WIN10-02`**
-
-![Wallpaper Automatically Applied On User Login for `AD-WIN10-02`](https://github.com/user-attachments/assets/000b6da9-9c48-47ff-bc7e-3f63d2e0506a)
-
----
-
-## 🗂️ 4. Screenshot Storage
-
-All screenshots for this section can be found in:<br />
-📂 [`06-Screenshots/XXV. Desktop Wallpaper Policy`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/blob/main/06-Screenshots/XXV.%20Desktop%20Wallpaper%20Policy/README.md)
+![Wallpaper Automatically Applied On User Login for `WinServer2022`](../06-Screenshots/G-User-Environment-Management/02/03.png)
