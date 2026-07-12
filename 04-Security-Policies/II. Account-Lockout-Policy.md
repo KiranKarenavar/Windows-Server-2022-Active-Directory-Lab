@@ -13,7 +13,7 @@ Created and applied via the **Group Policy Management Console (GPMC)**, this GPO
 
 📸 **GPMC Showing the Account Lockout Policy GPO and its Link to the Domain**
 
-<img width="1920" height="909" alt="GPMC Showing the Account Lockout Policy GPO and Its Link to the Domain" src="https://github.com/user-attachments/assets/542a4e71-2b95-447a-adfc-79481ca7a50f" />
+![GPMC Showing the Account Lockout Policy GPO and Its Link to the Domain](../06-Screenshots/D-Security-Policies/02/01.png)
 
 ---
 
@@ -33,7 +33,7 @@ These settings ensure that accounts are temporarily disabled after five failed l
 
 📸 **Group Policy Editor Window Showing the Account Lockout Policy Settings**
 
-<img width="1920" height="909" alt="Group Policy Editor Window Showing the Account Lockout Policy Settings" src="https://github.com/user-attachments/assets/cc81cb7c-9d27-4e28-a4e6-bc1211c5ea7b" />
+![Group Policy Editor Window Showing the Account Lockout Policy Settings](../06-Screenshots/D-Security-Policies/02/02.png)
 
 ---
 
@@ -60,19 +60,12 @@ These configurations align with enterprise security policies and common audit st
 
 📸 **User Account Management Account Lockout**
 
-![User Account Management Account Lockout](https://github.com/user-attachments/assets/aff939a4-6185-42ff-94e4-3ea5a53b3375)
+![User Account Management Account Lockout](../06-Screenshots/D-Security-Policies/02/03.png)
 
 📸 **Command Prompt Showing Account Status After Lockout**
 
-![Command Prompt Showing Account Status After Lockout](https://github.com/user-attachments/assets/a9887b88-df20-4cfe-a5a6-feb654d5d21a)
+![Command Prompt Showing Account Status After Lockout](../06-Screenshots/D-Security-Policies/02/04.png)
 
 📸 **`AD-WIN10-01` Showing Account Lockout Policy Successfully Implemented for `TechUser2`**
 
-![Account Lockout Policy Succedssfully Implemented for `TechUser2`](https://github.com/user-attachments/assets/79f911c0-f3ba-4c0a-b235-03a5b091136a)
-
----
-
-## 📁 5. Screenshot Storage
-
-All screenshots for this section can be found in:  
-📂 [`06-Screenshots/XII. Account-Lockout-Policy`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/tree/main/06-Screenshots/XII.%20Account-Lockout-Policy)
+![Account Lockout Policy Succedssfully Implemented for `TechUser2`](../06-Screenshots/D-Security-Policies/02/05.png)
