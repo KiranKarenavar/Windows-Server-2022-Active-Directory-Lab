@@ -20,7 +20,7 @@ The initial step involves installing the AD DS role and promoting the server to 
 - **DNS Server Installation:** Opted to install the DNS Server role alongside AD DS.
 - **Directory Services Restore Mode (DSRM) Password:** Defined a secure DSRM password for recovery purposes.
 
-These steps are detailed in the [`I. Active-Directory-Setup`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/blob/main/03-Configuration/I.%20Active-Directory-Setup.md) file.
+These steps are detailed in the [`I. Active-Directory-Setup`](../03-Configuration/I.%20Active-Directory-Setup.md) file.
 
 ---
 
@@ -37,7 +37,7 @@ Proper DNS configuration is critical for the functionality of Active Directory, 
 - **Reverse Lookup Zone Creation:** Established a reverse lookup zone for IP address to name resolution.
 - **DNS Records Verification:** Confirmed the creation of essential DNS records, including SRV and A records for domain controllers.
 
-These configurations are outlined in the [`II. DNS-Setup`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/blob/main/03-Configuration/II.%20DNS-Setup.md) file.
+These configurations are outlined in the [`II. DNS-Setup`](../03-Configuration/II.%20DNS-Setup.md) file.
 
 ---
 
@@ -129,16 +129,7 @@ The custom Group Policies implemented in this lab environment were designed to e
 
 - **Windows Firewall Settings Policy**
 
-Each policy above was configured to meet specific security or operational objectives within the Active Directory domain. Detailed documentation for individual policies can be found within the corresponding folders in the [`III. GPO-Configurations`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/blob/main/03-Configuration/VII.%20GPO-Configurations.md) file.
-
----
-
-## 📂 Files Included
-
-- [`I. Active-Directory-Setup`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/blob/main/03-Configuration/I.%20Active-Directory-Setup.md): Step-by-step guide for installing and configuring Active Directory Domain Services.
-- [`II. DNS-Setup`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/blob/main/03-Configuration/II.%20DNS-Setup.md): Instructions for setting up and verifying DNS configurations essential for AD functionality.
-- [`III. GPO-Configurations`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/blob/main/03-Configuration/VII.%20GPO-Configurations.md): Details on implementing baseline Group Policy Objects for security and standardization.
-- [`README`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/blob/main/03-Configuration/README.md): This documentation file summarizing the configuration steps and their significance.
+Each policy above was configured to meet specific security or operational objectives within the Active Directory domain. Detailed documentation for individual policies can be found within the corresponding folders in the [`VI. GPO-Configurations`](../03-Configuration/I.%20GPO-Confiigurations.md) file.
 
 ---
 
@@ -151,10 +142,7 @@ By completing these configurations:
 
 ---
 
-## 📚 References
+## 6. 📁 Screenshot Storage
 
-[Best Practices for Securing Active Directory](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory)
-
-[Group Policy Overview for Windows Server](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/group-policy/group-policy-overview)
-
-[Active Directory Security Best Practices](https://learn.microsoft.com/ja-jp/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory)
+All screenshots for this section can be found in:  
+📂 [`06-Screenshots/C-Configuration`](../06-Screenshots/C-Configuration)
