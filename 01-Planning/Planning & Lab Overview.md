@@ -58,4 +58,4 @@ Before building the lab, I ensured the following were in place:
 ## 6. 📁 Screenshot Storage
 
 All screenshots for this section can be found in:  
-📂 [`06-Screenshots/I. Planning/Lab Architecture`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/blob/main/06-Screenshots/I.%20Planning/README.md)
+📂 [`06-Screenshots/A-Planning/01`](../06-Screenshots/A-Planning)
