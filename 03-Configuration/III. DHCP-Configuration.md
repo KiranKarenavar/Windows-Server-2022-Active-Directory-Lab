@@ -80,7 +80,7 @@ To distribute IP addresses to the Windows 10 clients:
 
 📸 **Configured DHCP Scope Settings Confirmation**
 
-![DHCP Scope Configuration Settings 11](../06-Screenshots/C-Configuration/C-03/010.png)
+![DHCP Scope Configuration Settings 11](../06-Screenshots/C-Configuration/C-03/10.png)
 
 ---
 
