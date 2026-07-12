@@ -13,7 +13,7 @@ This policy is configured using the **Group Policy Management Console (GPMC)** a
 
 📸 **GPMC Showing Local Administrator Restrictions GPO**
 
-<img width="1920" height="909" alt="GPMC Showing Local Administrator Restrictions GPO" src="https://github.com/user-attachments/assets/14462e95-9cca-4225-b1a6-694a7a5b419b" />
+![GPMC Showing Local Administrator Restrictions GPO](../06-Screenshots/D-Security-Policies/06/01.png)
 
 ---
 
@@ -31,7 +31,7 @@ These settings restrict local administrators from accessing systems remotely and
 
 📸 **Group Policy Editor Window Showing Local Administrator Restrictions Path**
 
-![Group Policy Editor Window Showing Local Administrator Restrictions Path](https://github.com/user-attachments/assets/c81bebe3-544b-4f45-b233-d9fcbf9b84bd)
+![Group Policy Editor Window Showing Local Administrator Restrictions Path](../06-Screenshots/D-Security-Policies/06/02.png)
 
 ---
 
@@ -51,43 +51,10 @@ These settings restrict local administrators from accessing systems remotely and
 
 📸 **Remote Desktop RDP Enabled on Server for `WinServer2022`**
 
-![Remote Desktop RDP Enabled on Server](https://github.com/user-attachments/assets/0c074a0b-de79-4fbb-9172-b4c626c8ee2f)
+![Remote Desktop RDP Enabled on Server](../06-Screenshots/D-Security-Policies/06/03.png)
 
-📸 **Command Prompt Showing the IP Configuration Necessary for RDP Connection**
+📸 **Remote Desktop Access with Domain Admin Credentials Showing Test Success
 
-![Command Prompt Showing the IP Configuration Necessary for RDP Connection](https://github.com/user-attachments/assets/675f72ed-7724-48c3-a771-8cedc1fe539c)
+![Remote Desktop RDP Attempt 2](../06-Screenshots/D-Security-Policies/06/04.png)
 
-📸 **Remote Desktop Access with Domain Admin Credentials Showing Test Success for `AD-WIN10-01`**
-
-![Remote Desktop RDP Attempt 2](https://github.com/user-attachments/assets/aea5bf2a-6291-4e5f-8457-f3a80fa0441c)
-
-![Remote Desktop RDP Attempt Successful](https://github.com/user-attachments/assets/214f5e88-1387-4e38-bde2-1b7775da1f67)
-
-📸 **Remote Desktop Access with Domain Admin Credentials Showing Test Denied for `AD-WIN10-01`**
-
-![Local Admin Account Login to Test RDP](https://github.com/user-attachments/assets/c29851d1-e1d2-46fe-941d-c09de3e381a2)
-
-![Remote Desktop RDP Attempt 4](https://github.com/user-attachments/assets/856f1f1a-0175-46a2-a45e-002cc3afaecb)
-
-![Remote Desktop RDP Attempt failed 1](https://github.com/user-attachments/assets/dbea4eb1-f0b2-47ec-97bc-9ec30cff5bc4)
-
-📸 **Remote Desktop Access with Domain Admin Credentials Showing Test Successful for `AD-WIN10-02`**
-
-![Remote Desktop RDP Attempt for AD-Win10-02 5](https://github.com/user-attachments/assets/a93aec6c-0d50-4b5a-ae1b-ffe373ced144)
-
-![Remote Desktop RDP Attempt for AD-Win10-02 Successful](https://github.com/user-attachments/assets/ea29dc15-c0c8-4a30-a83d-66168de564ee)
-
-📸 **Remote Desktop Access with Local Admin Credentials Showing Test Denied for `AD-WIN10-02`**
-
-![Accessing AD-WIN11-02 Using LocalAdmin Credentials](https://github.com/user-attachments/assets/adcb2ce7-0eea-4f6b-9a9b-834ea3caad55)
-
-![Remote Desktop RDP Attempt for AD-Win10-02 1](https://github.com/user-attachments/assets/c38722cd-a9a7-4b54-ac48-b233ef1ced8e)
-
-![Remote Desktop RDP Attempt for AD-Win10-02 2](https://github.com/user-attachments/assets/5ea3b209-5e33-471f-ad5a-5d3569b6c8b5)
-
----
-
-## 📁 5. Screenshot Storage
-
-All screenshots for this section can be found in:<br />
-📂 [`04-Security-Policies/VI. Local-Administrator-Restrictions`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/tree/main/06-Screenshots/XVI.%20Local-Administrator-Restrictions#readme)
+![Remote Desktop RDP Attempt Successful](../06-Screenshots/D-Security-Policies/06/05.png)
