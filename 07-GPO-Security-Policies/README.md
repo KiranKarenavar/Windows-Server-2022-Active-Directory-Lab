@@ -229,4 +229,4 @@ Implemented Group Policy configurations:
 ## 📁 Screenshot Storage
 
 All screenshots for this section can be found in:<br />
-📂 [`06-Screenshots/XI. Password Policy`](../06-Screenshots/D-Security-Policies)
+📂 [`06-Screenshots/F-GPO-Security-Policies`](../06-Screenshots/F-GPO-Security-Policies)
