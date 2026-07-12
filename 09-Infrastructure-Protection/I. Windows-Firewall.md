@@ -395,10 +395,3 @@ I closed the Group Policy Management Editor
 - Ran:
   `netsh advfirewall monitor show firewall rule name=all`
 - To see all applied firewall rules and check for any misconfiguration
-
----
-
-## 🗂️ 7. Screenshot Storage
-
-All screenshots for this section can be found in:<br />
-📂 [`06-Screenshots/XXVII. Windows-Firewall`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/tree/main/06-Screenshots/XXVII.%20Windows-Firewall)
