@@ -13,7 +13,7 @@ Created using the **Group Policy Management Console (GPMC)**, this GPO was appli
 
 📸 **GPMC Showing the Linked Domain Audit Policy GPO**
 
-<img width="1920" height="909" alt="GPMC Showing the Linked Domain Audit Policy GPO" src="https://github.com/user-attachments/assets/da5eceea-d686-4b44-98e9-e728aca4f6aa" />
+![GPMC Showing the Linked Domain Audit Policy GPO](../06-Screenshots/D-Security-Policies/03/01.png)
 
 ---
 
@@ -35,11 +35,11 @@ Path to settings:<br />
 
 📸 **Group Policy Editor Window Showing the Audit Policy Configuration Window**
 
-![Group Policy Editor Window Showing the Audit Policy Configuration Window](https://github.com/user-attachments/assets/9d82e1ac-04f2-4c97-be37-abdb595dc055)
+![Group Policy Editor Window Showing the Audit Policy Configuration Window](../06-Screenshots/D-Security-Policies/03/02.png)
 
 📸 **Advanced Audit Policy Configuration Window**
 
-<img width="1920" height="909" alt="Advanced Audit Policy Configuration Window" src="https://github.com/user-attachments/assets/8eaa0d67-de77-49cc-8505-4a4038736049" />
+![Advanced Audit Policy Configuration Window](../06-Screenshots/D-Security-Policies/03/03.png)
 
 ---
 
@@ -66,35 +66,25 @@ By auditing both successful and failed events, I ensured I could track both norm
 
 📸 **Security Event Logs in Event Viewer Showing Sample Audited Events**
 
-![Security Event Logs in Event Viewer Showing Sample Audited Events](https://github.com/user-attachments/assets/b5d91f9f-503a-4e6b-9a02-b0a811733335)
+![Security Event Logs in Event Viewer Showing Sample Audited Events](../06-Screenshots/D-Security-Policies/03/04.png)
 
 📸 **Other Policy Change Events**
 
-<img width="3302" height="2475" alt="Picture1" src="https://github.com/user-attachments/assets/cc72e570-f395-45c5-b9be-a5c2457bb375" /><br />
-
-📸 **Filtering Platform Connection**
-
-<img width="3302" height="2475" alt="Picture2" src="https://github.com/user-attachments/assets/2bc098fc-5638-4fd5-90e9-3b357216a079" /><br />
+![Picture1](../06-Screenshots/D-Security-Policies/03/05.png)
 
 📸 **Logoff**
 
-![Logoff](https://github.com/user-attachments/assets/9b0a025c-851d-4b21-80b4-12ed2b057d13)
+![Logoff](../06-Screenshots/D-Security-Policies/03/06.png)
 
 📸 **Logon**
 
-![Logon](https://github.com/user-attachments/assets/40dd2d42-cac8-48d1-986d-3ea25db67960)
+![Logon](../06-Screenshots/D-Security-Policies/03/07.png)
 
 📸 **Group Membership**
 
-![Group Membership](https://github.com/user-attachments/assets/e591efdd-1001-42b7-b1d9-e6d2f47f8fec)
+![Group Membership](../06-Screenshots/D-Security-Policies/03/08.png)
 
 📸 **Special Logon**
 
-![Special Logon](https://github.com/user-attachments/assets/b3524807-3f8e-4ff5-8c1b-2de9212cc225)
+![Special Logon](../06-Screenshots/D-Security-Policies/03/09.png)
 
----
-
-## 📁 5. Screenshot Storage
-
-All screenshots for this section can be found in: <br /> 
-  📂 [`06-Screenshots/XIII. Audit-Policy`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/tree/main/06-Screenshots/XIII.%20Audit-Policy)
