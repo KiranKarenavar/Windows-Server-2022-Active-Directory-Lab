@@ -5,7 +5,7 @@ A complete guide to navigating the Active Directory Lab documentation.
 ---
 
 ## 📁 01-Planning
-- [Overview.md](../01-Planning/Planning%20&%20Lab%20Overview.md)  
+- ![Overview.md](../01-Planning/Planning%20&%20Lab%20Overview.md)  
   *Lab objectives, architecture diagram, and design considerations.*
 
 ---
