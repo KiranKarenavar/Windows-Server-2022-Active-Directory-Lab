@@ -15,7 +15,7 @@ In this stage, I installed and configured **Windows Server 2022** as the Domain 
 
 📸 **Installation Setup Screen with Edition Selection**
 
-![Windows Server Setup 3](https://github.com/user-attachments/assets/915a6e00-5202-4e3c-a4fc-601ce180731a)
+![Windows Server Setup 3](../06-Screenshots/B-Environment%20Setup/Windows%20Server%202022/01.png)
 
 📸 **First Boot Desktop After Installation**
 
