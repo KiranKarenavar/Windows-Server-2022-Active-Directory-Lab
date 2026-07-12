@@ -14,7 +14,7 @@ I used the GPMC interface to initiate the backup process, ensuring that all GPOs
 
 📸 **GPMC Main Console Opened on Domain Controller**
 
-<img width="1920" height="909" alt="GPMC Main Console Opened on Domain Controller" src="https://github.com/user-attachments/assets/6256bc80-32c6-469f-b7d5-6ebec7ee2d92" />
+![GPMC Main Console Opened on Domain Controller](../06-Screenshots/F-GPO-Security-Policies/04/01.png)
 
 ---
 
@@ -27,7 +27,7 @@ To create a backup of **all Group Policy Objects** in the domain:
 
 📸 **Context Menu Showing 'Back Up All' Option**
 
-<img width="1920" height="909" alt="Context Menu Showing 'Back Up All' Option" src="https://github.com/user-attachments/assets/04bfa784-43d4-4383-a72e-7a563973bf7d" /><br />
+![Context Menu Showing 'Back Up All' ](../06-Screenshots/F-GPO-Security-Policies/04/02.png)
 
 3. In the backup dialog, I specified the location for the backup files (i.e., `F:\CHEEE\Administrator`) and added a description to help identify the backup.
 
@@ -35,13 +35,13 @@ To create a backup of **all Group Policy Objects** in the domain:
 
 📸 **Backup Dialog Showing Path and Description Entry**
 
-<img width="1920" height="909" alt="Backup Dialog Showing Path and Description Entry" src="https://github.com/user-attachments/assets/9e5ab0bc-b5e5-4611-ad1a-17da617f1137" /><br />
+![Backup Dialog Showing Path and Description Entry](../06-Screenshots/F-GPO-Security-Policies/04/03.png)
 
 5. A confirmation message appeared, indicating that the backup completed successfully.
 
 📸 **Confirmation of GPO Backup Completion**
 
-<img width="1920" height="909" alt="Confirmation of GPO Backup Completion" src="https://github.com/user-attachments/assets/509e282d-71a5-441b-9007-4af72178b34c" />
+![Confirmation of GPO Backup Completion](../06-Screenshots/F-GPO-Security-Policies/04/04.png)
 
 ---
 
@@ -63,12 +63,4 @@ I also tested the restoration of one GPO on a non-production policy to verify th
 
 📸 **Backup Directory with GPO .bak Files**
 
-<img width="1920" height="909" alt="Backup Directory with GPO  bak Files" src="https://github.com/user-attachments/assets/912f46f3-497c-4489-bf65-0e02b117f978" /><br />
-
-<img width="1920" height="909" alt="Backup Directory with GPO  bak Files 1" src="https://github.com/user-attachments/assets/3533e94b-c7fc-41d6-b4bb-c54ebae695c4" />
-
----
-
-# 📁 6. Screenshot Storage
-All screenshots for this section can be found in:<br />
-📂 [`06-Screenshots/XVIII. GPO-Backup-Export`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/tree/main/06-Screenshots/XVIII.%20GPO-Backup-Export)
+![Backup Directory with GPO  bak Files](../06-Screenshots/F-GPO-Security-Policies/04/05.png)
