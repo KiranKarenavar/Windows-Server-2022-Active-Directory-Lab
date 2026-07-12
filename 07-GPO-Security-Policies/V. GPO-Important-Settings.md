@@ -22,7 +22,7 @@ This guide outlines the essential Group Policy settings I configured to align wi
 
 📸 **Password Policies Settings**
 
-<img width="1920" height="909" alt="Group Policy Editor Window Showing the Password Policy Path" src="https://github.com/user-attachments/assets/6c979a92-4794-418f-a77a-1f8f1a4be9d7" />
+![Group Policy Editor Window Showing the Password Policy Path](../06-Screenshots/F-GPO-Security-Policies/05/01.png)
 
 ---
 
@@ -39,7 +39,7 @@ This guide outlines the essential Group Policy settings I configured to align wi
 
 📸 **Account Lockout Policies Settings**
 
-<img width="1920" height="909" alt="Group Policy Editor Window Showing the Account Lockout Policy Settings" src="https://github.com/user-attachments/assets/cc81cb7c-9d27-4e28-a4e6-bc1211c5ea7b" />
+![Group Policy Editor Window Showing the Account Lockout Policy Settings](../06-Screenshots/F-GPO-Security-Policies/05/02.png)
 
 ---
 
@@ -58,12 +58,6 @@ This guide outlines the essential Group Policy settings I configured to align wi
 | **Log on as a batch job**                           | Administrators, HUGHDOMAIN\BackupAdmin, HUGHDOMAIN\BackupAdmin1                                                                  |
 | **Log on as a service**                             | Network Service, Local Service                                                                                                   |
 | **Shut down the system**                            | Administrators, HUGHDOMAIN\BackupAdmin, HUGHDOMAIN\BackupAdmin1                                                                  |
-
-📸 **User Rights Assignment Settings**
-
-![Group Policy Editor Window Showing User Rights Path](https://github.com/user-attachments/assets/76170d21-d2b2-4a02-aa54-7315606c72cc)
-
-![Group Policy Editor Window Showing User Rights Path 1](https://github.com/user-attachments/assets/685c9085-f8e7-43d2-aeef-d5e14cff2361)
 
 ---
 
@@ -85,13 +79,6 @@ This guide outlines the essential Group Policy settings I configured to align wi
 | **User Account Control: Behaviour of the elevation prompt for administrators in Admin Mode**                                 | Prompt for consent on secure desktop                          |
 | **User Account Control: Behaviour of the elevation prompt for administrators running with enhanced privilege protection**    | Prompt for consent on secure desktop                          |
 | **User Account Control: Run all administrators in Admin Approval Mode**                                                      | Enabled                                                       |
-
-📸 **Security Options Settings**
-
-<img width="1920" height="909" alt="Security Options Settings" src="https://github.com/user-attachments/assets/32d7e974-aacf-475c-ad4f-8243c0e9d30a" /><br />
-
-<img width="1920" height="909" alt="Security Options Settings 1" src="https://github.com/user-attachments/assets/6060a431-73d1-45e6-bff7-4e6aab4f9340" />
-
 ---
 
 ### 🦠 Windows Defender Settings
@@ -117,23 +104,15 @@ This guide outlines the essential Group Policy settings I configured to align wi
 
 📸 **Windows Defender Settings**
 
-![Windows Defender Settings](https://github.com/user-attachments/assets/644f5eff-899c-4120-aae2-927805964de4)
+![Windows Defender Settings](../06-Screenshots/F-GPO-Security-Policies/05/03.png)
 
 📸 **Windows Defender Settings**
 
-![Windows Defender Settings 1](https://github.com/user-attachments/assets/5f969e39-ce5c-4b7b-b706-a60aa4116f64)
+![Windows Defender Settings 2](../06-Screenshots/F-GPO-Security-Policies/05/04.png)
 
 📸 **Windows Defender Settings**
 
-![Windows Defender Settings 2](https://github.com/user-attachments/assets/a2fb5fff-3a20-402e-9cb4-de73cc0fae87)
-
-📸 **Windows Defender Settings**
-
-![Windows Defender Settings 3](https://github.com/user-attachments/assets/0106bdfd-bec0-410c-a1ef-4cc9baac084a)
-
-📸 **Windows Defender Settings**
-
-![Windows Defender Settings 4](https://github.com/user-attachments/assets/f4e5c54f-a83d-40df-a251-aebd89bf989c)
+![Windows Defender Settings 3](../06-Screenshots/F-GPO-Security-Policies/05/05.png)
 
 ---
 
@@ -150,15 +129,7 @@ This guide outlines the essential Group Policy settings I configured to align wi
 
 📸 **Windows Defender Firewall Settings**
 
-<img width="1920" height="909" alt="Windows Defender Firewall Settings" src="https://github.com/user-attachments/assets/f3d6b7a3-68e8-4cca-9458-efeb267155aa" /><br />
-
-📸 **Windows Defender Firewall Settings**
-
-<img width="1920" height="909" alt="Windows Defender Firewall Settings 1" src="https://github.com/user-attachments/assets/0cea38cb-c0ef-4742-baca-ad9113e6394e" /><br />
-
-📸 **Windows Defender Firewall Settings**
-
-<img width="1920" height="909" alt="Windows Defender Firewall Settings 2" src="https://github.com/user-attachments/assets/daba3079-d418-44c6-b03b-9ba797a3f623" />
+![Windows Defender Firewall Settings](../06-Screenshots/F-GPO-Security-Policies/05/06.png)
 
 ---
 
@@ -174,7 +145,7 @@ This guide outlines the essential Group Policy settings I configured to align wi
 
 📸 **Desktop Settings**
 
-![Desktop Policy Settings](https://github.com/user-attachments/assets/2e370ae0-2d27-4092-afbb-3b0dc89cad40)
+![Desktop Policy Settings](../06-Screenshots/F-GPO-Security-Policies/05/07.png)
 
 ### 📋 Start Menu and Taskbar
 
@@ -188,15 +159,7 @@ This guide outlines the essential Group Policy settings I configured to align wi
 
 📸 **Start Menu and Taskbar Settings**
 
-![Start Menu and Taskbar Settings](https://github.com/user-attachments/assets/2df4f67e-3403-4340-8c87-996d655ef111)
-
-📸 **Start Menu and Taskbar Settings**
-
-![Start Menu and Taskbar Settings 1](https://github.com/user-attachments/assets/d6e63319-8182-4701-84c8-ff87658cf967)
-
-📸 **Start Menu and Taskbar Settings**
-
-![Start Menu and Taskbar Settings 2](https://github.com/user-attachments/assets/1890af72-3bb0-4d54-a3ed-a06d2e1291cc)
+![Start Menu and Taskbar Settings](../06-Screenshots/F-GPO-Security-Policies/05/08.png)
 
 ---
 
@@ -218,15 +181,7 @@ This guide outlines the essential Group Policy settings I configured to align wi
 
 📸 **Windows Update Settings**
 
-![Windows Update Settings](https://github.com/user-attachments/assets/bdfc9c27-934d-4465-b8dc-f9c1e9692869)
-
-📸 **Windows Update Settings**
-
-![Windows Update Settings 1](https://github.com/user-attachments/assets/f127dba5-964a-4ddf-a7e1-be47748fa67c)
-
-📸 **Windows Update Settings**
-
-![Windows Update Settings 2](https://github.com/user-attachments/assets/13c858f1-ce85-4380-bbd6-9b011f15c3af)
+![Windows Update Settings](../06-Screenshots/F-GPO-Security-Policies/05/09.png)
 
 ---
 
@@ -256,23 +211,7 @@ This guide outlines the essential Group Policy settings I configured to align wi
 
 📸 **Microsoft Edge Settings**
 
-![Microsoft Edge Settings](https://github.com/user-attachments/assets/618a6ab5-bc5e-425c-bfb3-d01a3a4b79d2)
-
-📸 **Microsoft Edge Settings**
-
-![Microsoft Edge Settings 1](https://github.com/user-attachments/assets/cbc8ff72-667a-420b-8866-07fd3710ea2d)
-
-📸 **Microsoft Edge Settings**
-
-![Microsoft Edge Settings 2](https://github.com/user-attachments/assets/e766778d-525d-45a4-9de8-e793c0dc4e85)
-
-📸 **Microsoft Edge Settings**
-
-![Microsoft Edge Settings 3](https://github.com/user-attachments/assets/2f1caf01-4b5d-4cd2-8845-a20084e2ef83)
-
-📸 **Microsoft Edge Settings**
-
-![Microsoft Edge Settings 4](https://github.com/user-attachments/assets/4575549a-80d6-4535-ac90-770059076549)
+![Microsoft Edge Settings](../06-Screenshots/F-GPO-Security-Policies/05/10.png)
 
 ---
 
@@ -287,8 +226,7 @@ This guide outlines the essential Group Policy settings I configured to align wi
 
 📸 **Control Panel Settings**
 
-<img width="1920" height="909" alt="Control Panel Settings" src="https://github.com/user-attachments/assets/85c149ad-c09f-449a-9e5b-5f0a21ccca53" /><br />
-
+![Control Panel Settings](../06-Screenshots/F-GPO-Security-Policies/05/11.png)
 #### 💻 System
 
 **Path:** <br />
@@ -300,11 +238,10 @@ This guide outlines the essential Group Policy settings I configured to align wi
 
 📸 **System Settings**
 
-<img width="1920" height="909" alt="System Settings" src="https://github.com/user-attachments/assets/564c1ec7-ffd0-4b1c-94c8-7903549a4bf4" /><br />
-
+![System Settings](../06-Screenshots/F-GPO-Security-Policies/05/12.png)
 📸 **System Settings**
 
-![System Settings 1](https://github.com/user-attachments/assets/74d8674a-d2b7-48a3-83d7-4fdf28a67fee)
+![System Settings 1](../06-Screenshots/F-GPO-Security-Policies/05/13.png)
 
 #### 🌐 Network
 
@@ -316,7 +253,7 @@ This guide outlines the essential Group Policy settings I configured to align wi
 
 📸 **Network Settings**
 
-<img width="1920" height="909" alt="Network Settings" src="https://github.com/user-attachments/assets/0938c995-0d6a-4a98-9622-c715e254a252" />
+![Network Settings](../06-Screenshots/F-GPO-Security-Policies/05/14.png)
 
 ---
 
@@ -332,11 +269,7 @@ This guide outlines the essential Group Policy settings I configured to align wi
 
 📸 **Power Management Settings**
 
-![Power Management Settings](https://github.com/user-attachments/assets/4157944a-d40b-4a6e-8328-8e4bcac10474)
-
-📸 **Power Management Settings**
-
-![Power Management Settings 1](https://github.com/user-attachments/assets/8293b095-bb1e-42ae-83ff-4087b39c0e86)
+![Power Management Settings](../06-Screenshots/F-GPO-Security-Policies/05/15.png)
 
 ---
 
@@ -351,18 +284,6 @@ This guide outlines the essential Group Policy settings I configured to align wi
 - Windows SmartScreen: Enabled  
 - DEP: Disabled
 
-📸 **Data Loss Prevention Settings**
-
-![Data Loss Prevention Settings](https://github.com/user-attachments/assets/66517c19-4d53-4aff-b057-3c3a4bf8afc1)
-
-📸 **Data Loss Prevention Settings**
-
-![Data Loss Prevention Settings 2](https://github.com/user-attachments/assets/e6649043-7613-469c-a853-6490a72064db)
-
-📸 **Data Loss Prevention Settings**
-
-![Data Loss Prevention Settings 3](https://github.com/user-attachments/assets/a31973ec-13c1-4747-8507-0fd04558ca1a)
-
 #### 🔐 BitLocker Drive Encryption
 
 **Path:** <br />
@@ -375,15 +296,7 @@ This guide outlines the essential Group Policy settings I configured to align wi
 
 📸 **BitLocker Drive Encryption Settings**
 
-<img width="1920" height="909" alt="BitLocker Drive Encryption Fixed Drive Settings Overview" src="https://github.com/user-attachments/assets/eae3f23f-f672-4a8f-a7ec-8b703b7d6191" /><br />
-
-📸 **BitLocker Drive Encryption Settings**
-
-<img width="1920" height="909" alt="BitLocker Drive Encryption Policies for Operating System Drives Overview" src="https://github.com/user-attachments/assets/c84d3785-c5be-4eec-9bd8-893ec3e2f974" /><br />
-
-📸 **BitLocker Drive Encryption Settings**
-
-<img width="1920" height="909" alt="BitLocker Drive Encryption Removable Data Drives Overview" src="https://github.com/user-attachments/assets/c53fa362-fb2d-4fbd-9836-7e7bd278cfe1" />
+![BitLocker Drive Encryption Fixed Drive Settings Overview](../06-Screenshots/F-GPO-Security-Policies/05/18.png)
 
 ---
 
@@ -401,11 +314,7 @@ This guide outlines the essential Group Policy settings I configured to align wi
 
 📸 **AppLocker Settings Executable Rules Settings**
 
-<img width="1920" height="909" alt="AppLocker Settings" src="https://github.com/user-attachments/assets/975994dd-d3ca-4d3b-b617-ef53ca2ec3bc" /><br />
-
-📸 **AppLocker Settings Windows Installer Rules Settings**
-
-<img width="1920" height="909" alt="AppLocker Settings 1" src="https://github.com/user-attachments/assets/18ddb787-14b3-4418-806f-f1822ad85b84" />
+![AppLocker Settings](../06-Screenshots/F-GPO-Security-Policies/05/19.png)
 
 ---
 
@@ -419,7 +328,7 @@ This guide outlines the essential Group Policy settings I configured to align wi
 
 📸 **App Package Deployment Settings**
 
-![App Package Deployment Settings](https://github.com/user-attachments/assets/eee5dc48-9ab9-44c5-a9c4-420e24b18f4e)
+![App Package Deployment Settings](../06-Screenshots/F-GPO-Security-Policies/05/17.png)
 
 ---
 
@@ -433,11 +342,4 @@ This guide outlines the essential Group Policy settings I configured to align wi
 
 📸 **Device Installation Settings**
 
-![Device Installation Settings](https://github.com/user-attachments/assets/14367313-7368-4dde-856e-223f9c939c4a)
-
----
-
-## 3. 🗂️ Screenshot Storage
-
-All screenshots for this section can be found in:<br />
-📂 [`06-Screenshots/XIX. GPO-Important-Settings`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/tree/main/06-Screenshots/XIX.%20GPO-Important-Settings)
+![Device Installation Settings](../06-Screenshots/F-GPO-Security-Policies/05/16.png)
