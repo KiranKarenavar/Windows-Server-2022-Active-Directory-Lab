@@ -13,7 +13,7 @@ This policy was created using the **Group Policy Management Console (GPMC)** and
 
 📸 **GPMC Showing the Domain Password Policy GPO**
 
-![GPMC Showing the Domain Password Policy GPO](../6-Screenshots/D-Security-Policies/01/01.png)
+![GPMC Showing the Domain Password Policy GPO](../06-Screenshots/D-Security-Policies/01/01.png)
 
 ---
 
@@ -35,7 +35,7 @@ These settings ensure users cannot reuse old passwords frequently, must use comp
 
 📸 **Group Policy Editor Window Showing the Password Policy Path**
 
-![Group Policy Editor Window Showing the Password Policy Path](../6-Screenshots/D-Security-Policies/01/02.png)
+![Group Policy Editor Window Showing the Password Policy Path](../06-Screenshots/D-Security-Policies/01/02.png)
 
 ---
 
@@ -64,13 +64,13 @@ gpresult /r
 
 📸 **`gpresult` Showing Password Policy Application for `AD-WIN10-01`**
 
-![`gpresult` Showing Password Policy Application for `AD-WIN10-01`](../6-Screenshots/D-Security-Policies/01/04.png)
+![`gpresult` Showing Password Policy Application for `AD-WIN10-01`](../06-Screenshots/D-Security-Policies/01/04.png)
 
 📸 **`gpresult` Showing Password Policy Application for `AD-WIN10-02`**
 
-![presult` Showing Password Policy Application for `AD-WIN10-02`](../6-Screenshots/D-Security-Policies/01/05.png)
+![presult` Showing Password Policy Application for `AD-WIN10-02`](../06-Screenshots/D-Security-Policies/01/05.png)
 
 📸 **Resultant Set of Policy**
 
-![Resultant Set of Policy for Password Policy](../6-Screenshots/D-Security-Policies/01/03.png)
+![Resultant Set of Policy for Password Policy](../06-Screenshots/D-Security-Policies/01/03.png)
 
