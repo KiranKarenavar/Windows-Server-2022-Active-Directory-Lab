@@ -30,7 +30,7 @@ Welcome to my Active Directory (AD) Home Lab, designed to simulate a small enter
 
 Below is the high-level architecture of the lab environment:
 
-📷 [View Architecture Diagram](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/tree/main/06-Screenshots/I.%20Planning)
+📷 [View Architecture Diagram](../01-Planning/Planning%20&%20Lab%20Overview.md)
 
 ---
 
@@ -38,7 +38,7 @@ Below is the high-level architecture of the lab environment:
 
 All configuration steps, screenshots, and explanations are organized in folders for easy navigation.
 
-🔗 [📚 View Full Table of Contents](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/blob/main/Table-of-Contents.md)
+🔗 [📚 View Full Table of Contents](../Table-of-Contents.md)
 
 ---
 
