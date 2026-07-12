@@ -125,4 +125,4 @@ Removed `Domain Users` group from:
 ## 🗂️ 5. Screenshot Storage
 
 All screenshots for this section can be found in:<br />
-📂 [`06-Screenshots/E-Troubleshooting`](../06-Screensots/E-Troubleshooting)
+📂 [`06-Screenshots/E-Troubleshooting`](../06-Screenshots/E-Troubleshooting)
