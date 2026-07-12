@@ -26,17 +26,10 @@ To track and monitor critical security events such as logons, account management
 
 📸 **Audit Policy Configuration Window**
 
-![Group Policy Editor Window Showing the Audit Policy Configuration Window](https://github.com/user-attachments/assets/9d82e1ac-04f2-4c97-be37-abdb595dc055)
+![Group Policy Editor Window Showing the Audit Policy Configuration Window](../06-Screenshots/F-GPO-Security-Policies/03/1.png)
 
 ---
 
 ## ✅ 4. Verification
 - Monitored **Security logs** in Event Viewer for expected audit events.
 - Ran test logons and account changes to generate events.
-
----
-
-## 📁 5. Screenshot Storage
-
-All screenshots for this section can be found in: <br /> 
-  📂 [`06-Screenshots/XIII. Audit-Policy`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/tree/main/06-Screenshots/XIII.%20Audit-Policy)
