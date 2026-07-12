@@ -236,18 +236,7 @@ Implemented Group Policy configurations:
   
 ---
 
-## 📚 References
+## 📁 Screenshot Storage
 
-[Best Practices for Securing Active Directory](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory)
-
-[Group Policy Overview](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/group-policy/group-policy-overview)
-
-[Configure Group Policies to Set Security](https://learn.microsoft.com/en-us/troubleshoot/windows-server/group-policy/configure-group-policies-set-security)
-
-[Microsoft Security Baselines](https://learn.microsoft.com/en-us/windows/security/)
-
-[NIST SP 800-53 Security Controls](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
-
-[CIS Windows Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
-
-[Microsoft Group Policy Documentation](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831791(v=ws.11))
+All screenshots for this section can be found in:<br />
+📂 [`06-Screenshots/XI. Password Policy`](../06-Screenshots/D-Security-Policies)
