@@ -73,9 +73,9 @@ The planning phase is crucial for establishing a structured and efficient Active
 ## 📂 Files Included
 
 - Detailed documentation outlining the lab's objectives, network design, hardware/software requirements, and implementation steps can be found in:
-  - [`Planning & Lab Overview.md`](./01-Planning/Planning%20&%20Lab%20Overview.md)
+  - [`Planning & Lab Overview.md`](../01-Planning/Planning%20&%20Lab%20Overview.md)
   - [`I. Windows-Server-Setup.md`](../02-Environment-Setup/I.%20Windows-Server-Setup.md)
-  - [`II. Windows-Client-Setup.md`](../02-Environment-Setup/I.%20Windows-Client-Setup.md)
+  - [`II. Windows-Client-Setup.md`](../02-Environment-Setup/II.%20Windows-Client-Setup.md)
   - [`I. Active-Directory-Setup.md`](../03-Configuration/I.%20Active-Directory-Setup.md)
 
 
