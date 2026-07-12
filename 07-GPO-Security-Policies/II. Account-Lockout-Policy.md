@@ -24,7 +24,7 @@ To prevent brute-force logon attempts by locking user accounts after a set numbe
 
 **📸 Account Lockout Policy Showing each Individual Setting with Values Applied**
 
-![Account Lockout Policy Showing Each Individual Setting With Values Applied](https://github.com/user-attachments/assets/6653c503-86e7-464d-9cdf-86636220644d)
+![Account Lockout Policy Showing Each Individual Setting With Values Applied](../06-Screenshots/F-GPO-Security-Policies/02/1.png)
 
 ---
 
@@ -32,10 +32,3 @@ To prevent brute-force logon attempts by locking user accounts after a set numbe
 
 - Tested with dummy user accounts and incorrect passwords to ensure lockout.
 - Confirmed via Event Viewer logs and GPO Management Console.
-
----
-
-## 📁 5. Screenshot Storage
-
-All screenshots for this section can be found in:<br /> 
-📂 [`06-Screenshots/XII. Account-Lockout-Policy`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/tree/main/06-Screenshots/XII.%20Account-Lockout-Policy)
