@@ -30,7 +30,7 @@ These settings are configured under:
 
   📂 `Computer Configuration → Windows Settings → Security Settings → Account Policies → Password Policy`
 
-Detailed configurations can be found in the [`I. Password Policy`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/blob/main/04-Security-Policies/I.%20Password%20Policy.md) file.
+Detailed configurations can be found in the [`I. Password Policy`](../04-Security-Policies/I.%20Password%20Policy.md) file.
 
 ---
 
@@ -52,7 +52,7 @@ These settings are configured under:
 
   📂 `Computer Configuration → Windows Settings → Security Settings → Account Policies → Account Lockout Policy`
   
-Detailed configurations can be found in the [`II. Account-Lockout-Policy`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/blob/main/04-Security-Policies/II.%20Account-Lockout-Policy.md) file.
+Detailed configurations can be found in the [`II. Account-Lockout-Policy`](../04-Security-Policies/II.%20Account-Lockout-Policy.md) file.
 
 ---
 
@@ -84,7 +84,7 @@ These settings are configured under:
 
   📂 `Computer Configuration → Windows Settings → Security Settings → Local Policies → Audit Policy`
   
-Detailed configurations can be found in the [`III. Audit-Policy`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/blob/main/04-Security-Policies/III.%20Audit-Policy.md) file.
+Detailed configurations can be found in the [`III. Audit-Policy`](../04-Security-Policies/III.%20Audit-Policy.md) file.
 
 ---
 
@@ -108,7 +108,7 @@ These settings are configured under:
 
   📂 `Computer Configuration → Windows Settings → Security Settings → Local Policies → User Rights Assignment`
   
-Detailed configurations can be found in the [`IV. User-Rights-Assignment`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/blob/main/04-Security-Policies/IV.%20User-Rights-Assignment.md) file.
+Detailed configurations can be found in the [`IV. User-Rights-Assignment`](../04-Security-Policies/IV.%20User-Rights-Assignment.md) file.
 
 ---
 
@@ -134,7 +134,7 @@ These settings are configured under:
 
   📂 `Computer Configuration → Administrative Templates → Windows Components → Microsoft Defender Antivirus`
   
-Detailed configurations can be found in the [`V. Windows-Defender-Policies`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/blob/main/04-Security-Policies/V.%20Windows-Defender-Policies.md) file.
+Detailed configurations can be found in the [`V. Windows-Defender-Policies`](../04-Security-Policies/V.%20Windows-Defender-Policies.md) file.
 
 ---
 
@@ -158,19 +158,7 @@ These settings are configured under:
 
   📂 `Computer Configuration → Windows Settings → Security Settings → Local Policies → User Rights Assignment`
   
-Detailed configurations can be found in the [`VI. Local-Administrator-Restrictions`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/blob/main/04-Security-Policies/VI.%20Local-Administrator-Restrictions.md) file.
-
----
-
-## 📂 Files Included
-
-- [`I. Password Policy`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/blob/main/04-Security-Policies/I.%20Password%20Policy.md): Detailed configurations for enforcing strong password policies.
-- [`II. Account-Lockout-Policy`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/blob/main/04-Security-Policies/II.%20Account-Lockout-Policy.md): Settings to prevent unauthorized access through account lockouts.
-- [`III. Audit-Policy`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/blob/main/04-Security-Policies/III.%20Audit-Policy.md): Configurations for auditing and monitoring critical security events.
-- [`IV. User-Rights-Assignment`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/blob/main/04-Security-Policies/IV.%20User-Rights-Assignment.md): Assignments of specific user rights to control user actions.
-- [`V. Windows-Defender-Policies`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/blob/main/04-Security-Policies/V.%20Windows-Defender-Policies.md): Settings to enhance system protection using Windows Defender.
-- [`VI. Local-Administrator-Restrictions`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/blob/main/04-Security-Policies/VI.%20Local-Administrator-Restrictions.md): Restrictions applied to local administrator accounts.
-- [`README`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/blob/main/04-Security-Policies/README.md): This documentation file summarizing the implemented security policies.
+Detailed configurations can be found in the [`VI. Local-Administrator-Restrictions`](../04-Security-Policies/VI.%20Local-Administrator-Restrictions.md) file.
 
 ---
 
@@ -185,13 +173,7 @@ By applying these security policies:
 - **Restricted Unauthorized Access:** Applied restrictions to local administrator accounts to prevent privilege escalation.
 
 ---
+## 📁 5. Screenshot Storage
 
-## 📚 References
-
-[Best Practices for Securing Active Directory](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory)
-
-[Configure Group Policies to Set Security](https://learn.microsoft.com/en-us/troubleshoot/windows-server/group-policy/configure-group-policies-set-security)
-
-[Active Directory Security Best Practices](https://www.cyber.gc.ca/en/guidance/practitioner-guidance-securing-microsoft-active-directory-services-your-organization-itsp60100)
-
-[Group Policy Overview for Windows Server](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/group-policy/group-policy-overview)
+All screenshots for this section can be found in:<br />
+📂 [`06-Screenshots/D-Security-Policies`](../06-Screenshots/D-Security-Policies)
