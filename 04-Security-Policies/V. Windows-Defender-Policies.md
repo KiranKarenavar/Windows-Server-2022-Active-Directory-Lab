@@ -13,7 +13,7 @@ This policy is configured using the **Group Policy Management Console (GPMC)** a
 
 📸 **GPMC Showing Windows Defender GPO**
 
-<img width="1920" height="909" alt="GPMC Showing Windows Defender GPO" src="https://github.com/user-attachments/assets/b78db28b-388f-4cef-b5c6-9c991bb1f732" />
+![GPMC Showing Windows Defender GPO](../06-Screenshots/D-Security-Policies/05/01.png)
 
 ---
 
@@ -34,7 +34,7 @@ These settings ensure that Windows Defender is active, real-time protection is e
 
 📸 **Group Policy Editor Window Showing Windows Defender Path**
 
-<img width="1920" height="909" alt="Group Policy Editor Window Showing Windows Defender Path" src="https://github.com/user-attachments/assets/8e589a7e-b3c2-4869-a37f-3b653519a0c6" />
+![Group Policy Editor Window Showing Windows Defender Path](../06-Screenshots/D-Security-Policies/05/02.png)
 
 ---
 
@@ -50,23 +50,23 @@ These settings ensure that Windows Defender is active, real-time protection is e
 
 📸 **Turn off Microsoft Defender Antivirus**
 
-![Turn off Microsoft Defender Antivirus](https://github.com/user-attachments/assets/8b63608a-f614-41bd-8b95-9a6c4f8f3909)
+![Turn off Microsoft Defender Antivirus](../06-Screenshots/D-Security-Policies/05/03.png)
 
 📸 **Turn Off Real-time Protection**
 
-![Turn Off Peal-time Protection](https://github.com/user-attachments/assets/1d32c43c-ab99-4151-80a2-18bd3e836800)
+![Turn Off Peal-time Protection](../06-Screenshots/D-Security-Policies/05/04.png)
 
 📸 **Join Microsoft MAPS**
 
-![Join Microsoft MAPS](https://github.com/user-attachments/assets/5a5bf971-fd82-41b5-82ae-b3f6843f495d)
+![Join Microsoft MAPS](../06-Screenshots/D-Security-Policies/05/05.png)
 
 📸 **Send File Samples when Further Analysis is Required**
 
-![Send File Samples When Further Analysis is Required](https://github.com/user-attachments/assets/9693b41f-1d80-4026-9c5e-8348080cb561)
+![Send File Samples When Further Analysis is Required](../06-Screenshots/D-Security-Policies/05/06.png)
 
 📸 **Scan Removable Drives**
 
-![Scan Removable Drives](https://github.com/user-attachments/assets/df7dbffa-8a61-456c-bff2-b1cff536fc81)
+![Scan Removable Drives](../06-Screenshots/D-Security-Policies/05/07.png)
 
 ---
 
@@ -78,11 +78,4 @@ These settings ensure that Windows Defender is active, real-time protection is e
 
 📸 **Event Viewer Showing Windows Defender Logs**
 
-![Event Viewer Showing Windows Defender Logs](https://github.com/user-attachments/assets/2678c61d-e157-4605-80a8-f6a5e3da4ce5)
-
----
-
-## 📁 5. Screenshot Storage
-
-All screenshots for this section can be found in:<br /> 
-📂 [`06-Screenshots/XV. Windows-Defender-Policies`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/blob/main/06-Screenshots/XV.%20Windows-Defender-Policies/README.md)
+![Event Viewer Showing Windows Defender Logs](../06-Screenshots/D-Security-Policies/05/08.png)
