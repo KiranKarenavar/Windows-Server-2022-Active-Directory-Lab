@@ -26,14 +26,6 @@ Welcome to my Active Directory (AD) Home Lab, designed to simulate a small enter
 
 ---
 
-## 🗺️ Architecture Overview
-
-Below is the high-level architecture of the lab environment:
-
-![View Architecture Diagram](../01-Planning/Planning%20%&%20Lab%20Overview.md)
-
----
-
 ## 📚 Documentation
 
 All configuration steps, screenshots, and explanations are organized in folders for easy navigation.
