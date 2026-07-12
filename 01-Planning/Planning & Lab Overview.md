@@ -18,7 +18,7 @@ The diagram below illustrates the network structure, including the domain contro
 
 📸 **Lab Architecture**  
 
-![Lab Architecture](https://github.com/KiranKarenavar/Windows-Server-2022-Active-Directory-Lab/06-Screenshots/A-Planning/01.png)
+![Lab Architecture]([https://github.com/KiranKarenavar/Windows-Server-2022-Active-Directory-Lab/06-Screenshots/A-Planning/01.png](https://raw.githubusercontent.com/KiranKarenavar/Windows-Server-2022-Active-Directory-Lab/refs/heads/main/06-Screenshots/A-Planning/01.png))
 
 ---
 
