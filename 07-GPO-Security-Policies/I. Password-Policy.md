@@ -26,7 +26,7 @@ To enhance account security by enforcing strong password policies across all dom
 
 **📸 Password Policy Showing each Setting with its Configured Value**
 
-![Password Policy Showing Each Setting with Its Configured Value](https://github.com/user-attachments/assets/9c13030a-018e-4ac8-8873-0991bfb40001)
+![Password Policy Showing Each Setting with Its Configured Value](../06-Screenshots/F-GPO-Security-Policies/01/1.png)
 
 ---
 
@@ -34,10 +34,3 @@ To enhance account security by enforcing strong password policies across all dom
 
 - Used `gpresult /H report.html` to confirm the policy was applied.
 - Attempted to change password to weak formats to confirm rejection.
-
----
-
-## 📁 5. Screenshot Storage
-
-All screenshots for this section can be found in:<br />
-📂 [`06-Screenshots/XI. Password Policy`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/blob/main/06-Screenshots/XI.%20Password%20Policy/README.md)
