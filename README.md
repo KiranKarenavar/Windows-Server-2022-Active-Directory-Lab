@@ -30,7 +30,7 @@ Welcome to my Active Directory (AD) Home Lab, designed to simulate a small enter
 
 Below is the high-level architecture of the lab environment:
 
-📷 [View Architecture Diagram](../01-Planning/Planning%20&%20Lab%20Overview.md)
+![View Architecture Diagram](../01-Planning/Planning%20&%20Lab%20Overview.md)
 
 ---
 
