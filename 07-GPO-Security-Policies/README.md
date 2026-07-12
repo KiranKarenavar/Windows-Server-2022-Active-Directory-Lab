@@ -29,7 +29,7 @@ Established stringent password requirements to enforce strong authentication pra
 These settings are configured under:
   📂 `Computer Configuration → Windows Settings → Security Settings → Account Policies → Password Policy`
 
-Detailed configurations can be found in the [`I. Password Policy`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/blob/main/04-Security-Policies/I.%20Password%20Policy.md) file.
+Detailed configurations can be found in the [`I. Password Policy`](../07-GPO-Security-Policies/I.%20Password-Policy.md) file.
 
 ---
 
@@ -50,7 +50,7 @@ Implemented account lockout settings to deter brute-force attacks and unauthoriz
 These settings are configured under:
   📂 `Computer Configuration → Windows Settings → Security Settings → Account Policies → Account Lockout Policy`
   
-Detailed configurations can be found in the [`II. Account-Lockout-Policy`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/blob/main/04-Security-Policies/II.%20Account-Lockout-Policy.md) file.
+Detailed configurations can be found in the [`II. Account-Lockout-Policy`](../07-GPO-Security-Policies/I.%20Account-Lockout-Policy.md) file.
 
 ---
 
@@ -81,7 +81,7 @@ Configured audit policies to monitor and record critical security-related events
 These settings are configured under:
   📂 `Computer Configuration → Windows Settings → Security Settings → Local Policies → Audit Policy`
   
-Detailed configurations can be found in the [`III. Audit-Policy`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/blob/main/04-Security-Policies/III.%20Audit-Policy.md) file.
+Detailed configurations can be found in the [`III. Audit-Policy`](../07-GPO-Security-Policies/I.%20Audit-Policy.md) file.
 
 ---
 
@@ -212,16 +212,6 @@ These settings are configured under:
 - Blocked installation by:
   - Device IDs (specific hardware)
   - Setup classes (disk drives, etc.)
-
----
-
-## 📂 Files Included
-
-- [`I. Password Policy`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/blob/main/07-GPO-Security-Policies/I.%20Password-Policy.md): Detailed configurations for enforcing strong password policies.
-- [`II. Account-Lockout-Policy`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/blob/main/07-GPO-Security-Policies/II.%20Account-Lockout-Policy.md): Settings to prevent unauthorized access through account lockouts.
-- [`III. Audit-Policy`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/blob/main/07-GPO-Security-Policies/III.%20Audit-Policy.md): Configurations for auditing and monitoring critical security events.
-- [`IV. GPO-Important-Settings`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/blob/main/07-GPO-Security-Policies/IV.%20GPO-Backup-Export.md): Configurations for security baselines, ensuring corporate compliance, and optimization of user experience in a Windows enterprise environment.
-- [`README`](https://github.com/Hugh-Kumbi/Hugh-Kumbi-Active-Directory-Lab/blob/main/07-GPO-Security-Policies/README.md): This documentation file summarizing the implemented security policies.
 
 ---
 
