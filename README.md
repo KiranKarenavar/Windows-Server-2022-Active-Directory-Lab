@@ -1,6 +1,6 @@
 # 🛡️ Active Directory Home Lab - Windows Server 2022
 
-Welcome to my Active Directory (AD) Home Lab, designed to simulate a small enterprise network using **Windows Server 2022** and **Windows 10 Pro** clients. This lab provides hands-on experience with deploying and managing AD, DNS, GPOs, and security policies in a virtualized environment using VirtualBox.
+Welcome to my Active Directory (AD) Home Lab, designed to simulate a small enterprise network using **Windows Server 2022** and **Windows 10 Pro** clients. This lab provides hands-on experience with deploying and managing AD, DNS, GPOs, and security policies in a virtualized environment using VirtualBox
 
 ---
 
